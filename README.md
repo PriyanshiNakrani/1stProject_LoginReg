@@ -2,7 +2,7 @@
 <h2><strong>🚀 Welcome To My First Small Project as a Web Developer!</h2>
   <br>
   In this mini project, I've created a simple yet functional login and registration page using just HTML and CSS. 💻</strong>
-<br>
+<br><br>
 <strong>Features:</strong>
   <br>
 <strong>Login Page:</strong> Users can securely log in with their credentials.
